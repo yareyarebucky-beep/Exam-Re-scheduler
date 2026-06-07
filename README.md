@@ -198,10 +198,10 @@ test_exam_scheduler.py::TestExamScheduler::test_add_subject_success     PASSED
 
 ## Authors
 
-- **[Ken Loven M. Bayos]**
-  GitHub: [@yourgithub](https://github.com/yourgithub)
-
 - **[Charles David G. Gelilio]**
+  GitHub: [@yourgithub](https://github.com/yareyarebucky-beep)
+
+- **[Ken Loven M. Loven]**
   GitHub: [@yourgithub](https://github.com/yareyarebucky-beep)
 
 - **[Ahzie Christopher D. Lamata]**
