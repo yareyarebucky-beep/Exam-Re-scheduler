@@ -202,10 +202,10 @@ test_exam_scheduler.py::TestExamScheduler::test_add_subject_success     PASSED
   GitHub: [@yourgithub](https://github.com/yareyarebucky-beep)
 
 - **[Ken Loven M. Loven]**
-  GitHub: [@yourgithub](https://github.com/yareyarebucky-beep)
+  GitHub: [@yourgithub](https://github.com/asi0304?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNDM3NjI2MzE2OTczNzg4AAEeSVucqiyd4yGG6Jc739B4hO2lSEzvKGKKhSa4Xfe7I-RN57eFZio5qTTUC-o_aem_GKKdvIDdFW0RlW2hD4vQIg)
 
 - **[Ahzie Christopher D. Lamata]**
-  GitHub: [@yourgithub](https://github.com/yourgithub)
+  GitHub: [@yourgithub](https://github.com/asi0304?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNDM3NjI2MzE2OTczNzg4AAEeSVucqiyd4yGG6Jc739B4hO2lSEzvKGKKhSa4Xfe7I-RN57eFZio5qTTUC-o_aem_GKKdvIDdFW0RlW2hD4vQIg)
 
 ---
 
