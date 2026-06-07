@@ -201,8 +201,8 @@ test_exam_scheduler.py::TestExamScheduler::test_add_subject_success     PASSED
 - **[Your Name Here]**
   GitHub: [@yourgithub](https://github.com/yourgithub)
 
-- **[Member 2 Name]**
-  GitHub: [@yourgithub](https://github.com/yourgithub)
+- **[Charles David G. Gelilio]**
+  GitHub: [@yourgithub](https://github.com/yareyarebucky-beep)
 
 - **[Member 3 Name]**
   GitHub: [@yourgithub](https://github.com/yourgithub)
