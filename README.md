@@ -198,13 +198,13 @@ test_exam_scheduler.py::TestExamScheduler::test_add_subject_success     PASSED
 
 ## Authors
 
-- **[Your Name Here]**
+- **[Ken Loven M. Bayos]**
   GitHub: [@yourgithub](https://github.com/yourgithub)
 
 - **[Charles David G. Gelilio]**
   GitHub: [@yourgithub](https://github.com/yareyarebucky-beep)
 
-- **[Member 3 Name]**
+- **[Ahzie Christopher D. Lamata]**
   GitHub: [@yourgithub](https://github.com/yourgithub)
 
 ---
